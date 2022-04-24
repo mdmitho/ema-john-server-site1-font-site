@@ -21,3 +21,7 @@
     background-color: bisque;
     border: 1px solid orange;
 }
+.pagination .selected{
+    background-color: olive;
+    color: white;
+}
