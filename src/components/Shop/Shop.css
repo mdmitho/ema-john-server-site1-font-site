@@ -16,3 +16,8 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+.pagination button{
+    margin-right: 10px;
+    background-color: bisque;
+    border: 1px solid orange;
+}
